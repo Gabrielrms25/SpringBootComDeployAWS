@@ -1,2 +1,3 @@
 # SpringBootComDeployAWS
-Criando blog com springboot e deploy na aws. Curso da instrutora Michelli Brito
+Criando blog com springboot e deploy na aws.
+Instrutora: Michelli Brito
